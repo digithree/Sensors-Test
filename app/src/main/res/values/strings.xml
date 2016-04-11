@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sensors Test</string>
+
+    <string name="activity_title_random_radar">Random Radar Graph</string>
+    <string name="activity_title_light_sensor">Light Sensor</string>
+    <string name="activity_title_significant_motion_sensor">Significant Motion Sensor</string>
+    <string name="activity_title_step_counter">Step Counter</string>
+    <string name="activity_title_accelerometer">Linear Accelerometer Sensor</string>
+</resources>
